@@ -30,6 +30,7 @@ public class Persona {
         this.telefono = telefono;
         this.celular = celular;
         
+        
     }
 
     public String getNombre() {
